@@ -1,0 +1,14 @@
+.header-ul{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: row;
+}
+header{
+    background-color: rgba(226, 214, 214, 0.5);
+}
+.centrar-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
